@@ -1,0 +1,42 @@
+{
+  "bindings": [],
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [
+        {
+          "expression": "'horizontal'",
+          "to": "orientation"
+        },
+        {
+          "expression": "'center'",
+          "to": "alignment"
+        },
+        {
+          "expression": "'Page Demo'",
+          "to": "label"
+        },
+        {
+          "expression": "[{label: \"Page 1\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"home\", parameters: {}}}, {label: \"Page 2\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-2\", parameters: {}}}, {label: \"Page 3\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-3\", parameters: {}}}, {label: \"Page 4\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-4\", parameters: {}}}, {label: \"Page 5\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-5\", parameters: {}}}, {label: \"Page 6\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-6\", parameters: {}}}, {label: \"Page 7\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-7\", parameters: {}}}, {label: \"Page 8\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-8\", parameters: {}}}, {label: \"Page 9\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-9\", parameters: {}}}, {label: \"Page 10\", evaluateLabel: false, onClick: \"link\", openIn: \"current-window\", link: {type: \"state\", state: \"page-10\", parameters: {}}}]",
+          "to": "menuItems"
+        }
+      ],
+      "name": "Navigation",
+      "nodeName": "bln-navigation",
+      "type": "core-component"
+    }
+  ],
+  "description": "Reusable, responsive horizontal navigation for the Page Navigation Demo app. Centers the page links and provides direct current-window state navigation to all ten demo pages.\n",
+  "modules": [],
+  "name": "page-navigation",
+  "styles": [],
+  "type": "custom-component",
+  "variables": []
+}

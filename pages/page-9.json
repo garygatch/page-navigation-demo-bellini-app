@@ -1,0 +1,93 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [
+            "w-full",
+            "rounded-xl",
+            "border",
+            "border-slate-200/80",
+            "bg-white/80",
+            "shadow-sm"
+          ],
+          "expressions": [],
+          "layout": {
+            "cell": {
+              "growFactor": 0,
+              "mainSize": "auto",
+              "shrinkFactor": 0,
+              "type": "box-item"
+            }
+          },
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 9"
+                }
+              ],
+              "classList": [
+                "text-4xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-800",
+                "sm:text-5xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "pt-10",
+            "text-center",
+            "sm:pt-16"
+          ],
+          "comments": "Centered page title beneath the shared navigation.",
+          "layout": {
+            "cell": {
+              "growFactor": 1,
+              "mainSize": "100%",
+              "shrinkFactor": 1,
+              "type": "box-item"
+            }
+          },
+          "name": "main"
+        }
+      ],
+      "classList": [
+        "min-h-screen",
+        "bg-[#f1eff5]",
+        "px-4",
+        "py-5",
+        "sm:px-8"
+      ],
+      "comments": "Full-page soft lilac-gray canvas with responsive spacing.",
+      "layout": {
+        "container": {
+          "crossAxisAlignment": "stretch",
+          "gap": "1.5rem",
+          "orientation": "column",
+          "type": "box"
+        }
+      },
+      "name": "div"
+    }
+  ],
+  "description": "Page 9 in the ten-page navigation demo. Shows the shared app navigation across the top and a centered page heading on a soft lilac-gray background.\n",
+  "name": "page-9",
+  "params": {},
+  "type": "page",
+  "url": "/page-9",
+  "variables": []
+}

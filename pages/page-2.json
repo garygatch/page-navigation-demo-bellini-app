@@ -1,0 +1,74 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 2"
+                }
+              ],
+              "classList": [
+                "text-center",
+                "text-4xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-900",
+                "sm:text-5xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "flex-1",
+            "min-w-0",
+            "overflow-auto",
+            "min-h-screen",
+            "bg-emerald-50",
+            "px-4",
+            "py-12",
+            "sm:px-6"
+          ],
+          "comments": "Main page content uses a soft mint surface and responsive spacing below the shared navigation.",
+          "name": "div"
+        }
+      ],
+      "classList": [],
+      "name": "div",
+      "styles": [
+        {
+          "property": "display",
+          "value": "flex"
+        },
+        {
+          "property": "flex-direction",
+          "value": "column"
+        },
+        {
+          "property": "height",
+          "value": "100%"
+        }
+      ]
+    }
+  ],
+  "name": "page-2",
+  "params": {},
+  "type": "page",
+  "url": "/page-2",
+  "variables": []
+}

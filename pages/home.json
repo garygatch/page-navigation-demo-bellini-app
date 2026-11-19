@@ -1,0 +1,95 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 1"
+                }
+              ],
+              "classList": [
+                "text-5xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-900",
+                "sm:text-6xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "min-h-screen",
+            "bg-sky-100",
+            "px-6",
+            "py-16",
+            "text-center"
+          ],
+          "name": "div",
+          "styles": [
+            {
+              "property": "flex-grow",
+              "value": "1"
+            },
+            {
+              "property": "flex-shrink",
+              "value": "1"
+            },
+            {
+              "property": "flex-basis",
+              "value": "0%"
+            },
+            {
+              "property": "min-width",
+              "value": "0px"
+            },
+            {
+              "property": "overflow-x",
+              "value": "auto"
+            },
+            {
+              "property": "overflow-y",
+              "value": "auto"
+            }
+          ]
+        }
+      ],
+      "classList": [],
+      "name": "div",
+      "styles": [
+        {
+          "property": "display",
+          "value": "flex"
+        },
+        {
+          "property": "flex-direction",
+          "value": "column"
+        },
+        {
+          "property": "height",
+          "value": "100%"
+        }
+      ]
+    }
+  ],
+  "name": "home",
+  "params": {},
+  "type": "page",
+  "url": "/home",
+  "variables": []
+}

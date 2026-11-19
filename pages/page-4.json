@@ -1,0 +1,114 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 4"
+                }
+              ],
+              "classList": [
+                "text-5xl",
+                "md:text-6xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-900"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [],
+          "name": "div",
+          "styles": [
+            {
+              "property": "flex-grow",
+              "value": "1"
+            },
+            {
+              "property": "flex-shrink",
+              "value": "1"
+            },
+            {
+              "property": "flex-basis",
+              "value": "0%"
+            },
+            {
+              "property": "min-width",
+              "value": "0px"
+            },
+            {
+              "property": "overflow-x",
+              "value": "auto"
+            },
+            {
+              "property": "overflow-y",
+              "value": "auto"
+            },
+            {
+              "property": "text-align",
+              "value": "center"
+            },
+            {
+              "property": "padding-top",
+              "value": "3rem"
+            },
+            {
+              "property": "padding-right",
+              "value": "1.5rem"
+            },
+            {
+              "property": "padding-bottom",
+              "value": "3rem"
+            },
+            {
+              "property": "padding-left",
+              "value": "1.5rem"
+            }
+          ]
+        }
+      ],
+      "classList": [],
+      "name": "div",
+      "styles": [
+        {
+          "property": "display",
+          "value": "flex"
+        },
+        {
+          "property": "flex-direction",
+          "value": "column"
+        },
+        {
+          "property": "height",
+          "value": "100vh"
+        },
+        {
+          "property": "background-color",
+          "value": "rgb(255, 241, 230)"
+        }
+      ]
+    }
+  ],
+  "description": "## Page 4\nA page in the ten-page navigation demo. Displays the shared page navigation across the top and a centered Page 4 heading on a soft pastel peach background.\n",
+  "name": "page-4",
+  "params": {},
+  "type": "page",
+  "url": "/page-4",
+  "variables": []
+}

@@ -1,0 +1,23 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "description": "A ten-page navigation demo: the home page is Page 1, and page-2 through page-10 complete the set. Every page embeds the reusable page-navigation component, built with the core bln-navigation, displays a centered page heading, and uses its own soft pastel background.",
+      "title": "Page Navigation Demo",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "name": "page-navigation-demo",
+  "type": "app"
+}

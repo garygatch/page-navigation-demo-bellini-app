@@ -1,0 +1,71 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 8"
+                }
+              ],
+              "classList": [
+                "text-center",
+                "text-4xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-900"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "flex-1",
+            "min-w-0",
+            "overflow-auto",
+            "bg-sky-100",
+            "px-6",
+            "py-16"
+          ],
+          "name": "div"
+        }
+      ],
+      "classList": [],
+      "name": "div",
+      "styles": [
+        {
+          "property": "display",
+          "value": "flex"
+        },
+        {
+          "property": "flex-direction",
+          "value": "column"
+        },
+        {
+          "property": "height",
+          "value": "100%"
+        }
+      ]
+    }
+  ],
+  "description": "Page 8 in the ten-page navigation demo. Displays the shared page navigation across the top and a centered Page 8 heading on a soft pastel sky-blue background.",
+  "name": "page-8",
+  "params": {},
+  "type": "page",
+  "url": "/page-8",
+  "variables": []
+}

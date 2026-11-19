@@ -1,0 +1,78 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 6"
+                }
+              ],
+              "classList": [
+                "text-center",
+                "text-5xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-800",
+                "sm:text-6xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "flex-1",
+            "min-w-0",
+            "overflow-auto",
+            "bg-teal-50",
+            "px-4",
+            "py-16",
+            "sm:px-8"
+          ],
+          "name": "div",
+          "styles": [
+            {
+              "property": "background-color",
+              "value": "rgb(230, 255, 251)"
+            }
+          ]
+        }
+      ],
+      "classList": [],
+      "name": "div",
+      "styles": [
+        {
+          "property": "display",
+          "value": "flex"
+        },
+        {
+          "property": "flex-direction",
+          "value": "column"
+        },
+        {
+          "property": "height",
+          "value": "100%"
+        }
+      ]
+    }
+  ],
+  "name": "page-6",
+  "params": {},
+  "type": "page",
+  "url": "/page-6",
+  "variables": []
+}

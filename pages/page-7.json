@@ -1,0 +1,82 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "comments": "Shared app navigation linking across all ten demo pages.",
+          "expressions": [],
+          "layout": {
+            "cell": {
+              "growFactor": 0,
+              "mainSize": "auto",
+              "shrinkFactor": 0,
+              "type": "box-item"
+            }
+          },
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 7"
+                }
+              ],
+              "classList": [
+                "text-5xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-slate-900",
+                "sm:text-6xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "px-4",
+            "py-24",
+            "text-center"
+          ],
+          "layout": {
+            "cell": {
+              "growFactor": 1,
+              "mainSize": "100%",
+              "shrinkFactor": 1,
+              "type": "box-item"
+            }
+          },
+          "name": "div"
+        }
+      ],
+      "classList": [
+        "min-h-screen",
+        "bg-amber-50"
+      ],
+      "layout": {
+        "container": {
+          "crossAxisAlignment": "stretch",
+          "gap": "0",
+          "orientation": "column",
+          "type": "box"
+        }
+      },
+      "name": "div"
+    }
+  ],
+  "description": "## Page 7\nA minimal demo page featuring the shared Page Navigation Demo navigation component above a centered Page 7 heading on a soft butter-yellow background.\n",
+  "name": "page-7",
+  "params": {},
+  "type": "page",
+  "url": "/page-7",
+  "variables": []
+}

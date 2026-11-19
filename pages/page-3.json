@@ -1,0 +1,93 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "layout": {
+            "cell": {
+              "growFactor": 0,
+              "mainSize": "auto",
+              "shrinkFactor": 0,
+              "type": "box-item"
+            }
+          },
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 3"
+                }
+              ],
+              "classList": [
+                "text-5xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-violet-950"
+              ],
+              "layout": {
+                "cell": {
+                  "growFactor": 0,
+                  "mainSize": "auto",
+                  "shrinkFactor": 0,
+                  "type": "box-item"
+                }
+              },
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "px-6",
+            "py-12"
+          ],
+          "layout": {
+            "cell": {
+              "growFactor": 1,
+              "mainSize": "auto",
+              "shrinkFactor": 1,
+              "type": "box-item"
+            },
+            "container": {
+              "crossAxisAlignment": "center",
+              "mainAxisAlignment": "center",
+              "orientation": "column",
+              "type": "box"
+            }
+          },
+          "name": "div"
+        }
+      ],
+      "classList": [
+        "min-h-screen",
+        "bg-violet-100"
+      ],
+      "comments": "Full-page lavender canvas with navigation above the page content.",
+      "layout": {
+        "container": {
+          "crossAxisAlignment": "stretch",
+          "gap": "0px",
+          "orientation": "column",
+          "type": "box"
+        }
+      },
+      "name": "div"
+    }
+  ],
+  "name": "page-3",
+  "params": {},
+  "type": "page",
+  "url": "/page-3",
+  "variables": []
+}

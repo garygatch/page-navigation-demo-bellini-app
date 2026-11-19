@@ -1,0 +1,57 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "classList": [],
+          "expressions": [],
+          "name": "page-navigation",
+          "nodeName": "page-navigation",
+          "ownerId": "6afe9a4ca78f16cf04bafe9c",
+          "ownerType": "app",
+          "resourceIdentity": "components/page-navigation",
+          "type": "custom-component"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "evaluate": false,
+                  "name": "text",
+                  "textContent": "Page 5"
+                }
+              ],
+              "classList": [
+                "text-4xl",
+                "font-semibold",
+                "tracking-tight",
+                "text-rose-950",
+                "sm:text-5xl"
+              ],
+              "name": "h1"
+            }
+          ],
+          "classList": [
+            "px-4",
+            "py-20",
+            "text-center",
+            "sm:py-28"
+          ],
+          "name": "div"
+        }
+      ],
+      "classList": [
+        "min-h-screen",
+        "bg-rose-50"
+      ],
+      "name": "div"
+    }
+  ],
+  "name": "page-5",
+  "params": {},
+  "type": "page",
+  "url": "/page-5",
+  "variables": []
+}
